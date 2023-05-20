@@ -1,0 +1,6 @@
+#+title: Rusticles - Rust Particles
+#+STARTUP: inlineimages
+
+A study of the time required for paticles HEAP allocations.
+
+[[./plot.png]]
